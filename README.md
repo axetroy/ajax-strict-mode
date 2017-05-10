@@ -1,4 +1,6 @@
 # ajax-strict-mode
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/ajax-strict-mode.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/axetroy/ajax-strict-mode.svg?branch=master)](https://travis-ci.org/axetroy/ajax-strict-mode)
 [![Dependency](https://david-dm.org/axetroy/ajax-strict-mode.svg)](https://david-dm.org/axetroy/ajax-strict-mode)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
