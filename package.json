@@ -1,6 +1,6 @@
 {
   "name": "ajax-strict-mode",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "ajax的严格模式，https页面会拦截非https的ajax请求.",
   "main": "./dist/index.js",
   "scripts": {
