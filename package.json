@@ -3,6 +3,13 @@
   "version": "0.1.0",
   "description": "ajax的严格模式，https页面会拦截非https的ajax请求.",
   "main": "./dist/index.js",
+  "keywords":[
+    "axetroy",
+    "ajax",
+    "ajah",
+    "strict-mode",
+    "https"
+  ],
   "scripts": {
     "test": "ava",
     "build": "webpack --display-error-details --progress --colors",
